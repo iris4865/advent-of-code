@@ -1,2 +1,3 @@
 # advent-of-code
-https://adventofcode.com/
+site: https://adventofcode.com/
+howto: https://github.com/gobanos/cargo-aoc
